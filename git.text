@@ -1,0 +1,12 @@
+ls command....is use to view the list of all files that present in a folder..
+cd command ...is use to change the directory..if we want move from one
+ drive to another.
+-a command ...is use to open hidden files.
+pwd....means print working directory..it means if we want to show current 
+directory on which you are working to your gitbash screen
+cd /c/...if we want to go to  c drive
+mkdir...use to make directory
+rm -r...is use to remove directory
+git init....is use to initialize the git repository that u create at
+github platform.
+git remote add origin...is use to add source code to existing repository.
